@@ -25,12 +25,8 @@
   <img src="https://skillicons.dev/icons?i=react,ts,js,vite,tailwind,nodejs,python,fastapi,mongodb,redis,supabase,docker,linux,aws,git,github,githubactions,vercel&perline=9" alt="Stack" />
 </p>
 
-### 🤖 Lo que hago con IA
+### 🤖 Agentes de IA
 
 <p align="center">
-  <img src="./assets/terminal-ia.svg" alt="Terminal: orquesto agentes de IA que implementan, revisan y aprenden; visión por computadora que llena y envía reportes; auditorías de seguridad con pruebas; reglas y CI para equipos que programan con IA" width="100%" />
-</p>
-
-<p align="center">
-  <img src="./assets/terminal-contacto.svg" alt="¿Tienes un proyecto? Hablemos: mi-portafolio-2026-three.vercel.app" width="70%" />
+  <img src="./assets/agente-corriendo.svg" width="100%" alt="Agente corriendo: un orquestador recibe una tarea, la divide y la delega en subagentes de API, pruebas, seguridad y documentación con distintos proveedores (Claude, Codex, GPT) según costo; mide el tiempo de cada uno, reabre la subtarea cuando seguridad encuentra una falla, un juez da consenso, guarda lo aprendido como regla y abre el PR con CI verde" />
 </p>
