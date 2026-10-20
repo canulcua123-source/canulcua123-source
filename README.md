@@ -30,5 +30,5 @@
 ### 🤖 Agentes de IA
 
 <p align="center">
-  <img src="./assets/agente-corriendo.svg" width="100%" alt="Agente corriendo: un orquestador recibe una tarea, la divide y la delega en subagentes de API, pruebas, seguridad y documentación con distintos proveedores (Claude, Codex, GPT) según costo; mide el tiempo de cada uno, reabre la subtarea cuando seguridad encuentra una falla, un juez da consenso, guarda lo aprendido como regla y abre el PR con CI verde" />
+  <img src="./assets/agente-corriendo-v2.svg" width="100%" alt="Agente corriendo en un servidor Linux: entro por SSH con llave ed25519, actualizo el repo con git, reviso los contenedores con docker compose y lanzo un orquestador que recibe una tarea, la divide y la delega en subagentes de API, pruebas, seguridad y documentación con distintos proveedores (Claude, Codex, GPT) según costo; mide el tiempo de cada uno, reabre la subtarea cuando seguridad encuentra una falla, un juez da consenso, guarda lo aprendido como regla y abre el PR con CI verde" />
 </p>
