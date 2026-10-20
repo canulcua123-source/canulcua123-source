@@ -14,10 +14,9 @@
 
 ### 💻 Sobre mí
 
-- 🚀 Construyo **apps web y PWA** de punta a punta: frontend, API, base de datos, CI/CD y despliegue.
-- 🤖 Integro **IA** en productos reales (visión por computadora, flujos agénticos) y uso IA para programar con **reglas y pruebas**, no a ciegas.
-- 📚 En **constante aprendizaje**: hoy profundizando en **Docker, Linux y AWS**.
-- 🌎 **Open to work**.
+<p align="center">
+  <img src="./assets/sobre-mi.svg" width="100%" alt="Sobre mí (estilo neofetch): Fullstack Developer e IA aplicada. Construyo apps web, PWA y APIs de punta a punta. Mi obsesión es entender cómo funciona todo por dentro: Linux, redes, contenedores, nube y CI/CD; modelar, indexar y escalar datos SQL y NoSQL; agentes de IA, visión, evaluación y seguridad. Siempre aprendiendo, hoy Docker, Linux y AWS. Si no sé cómo funciona, lo desarmo. Open to work." />
+</p>
 
 ### 🛠️ Stack
 
