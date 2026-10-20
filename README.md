@@ -31,17 +31,6 @@
   <img src="./assets/terminal-ia.svg" alt="Terminal: orquesto agentes de IA que implementan, revisan y aprenden; visión por computadora que llena y envía reportes; auditorías de seguridad con pruebas; reglas y CI para equipos que programan con IA" width="100%" />
 </p>
 
-### 📊 Estadísticas
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=canulcua123-source&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" alt="Estadísticas" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=canulcua123-source&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Lenguajes" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=canulcua123-source&theme=tokyonight&hide_border=true&locale=es" alt="Racha de contribuciones" />
-</p>
-
 <p align="center">
   <img src="./assets/terminal-contacto.svg" alt="¿Tienes un proyecto? Hablemos: mi-portafolio-2026-three.vercel.app" width="70%" />
 </p>
