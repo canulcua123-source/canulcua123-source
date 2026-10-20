@@ -16,7 +16,7 @@
 
 - 🚀 Construyo **apps web y PWA** de punta a punta: frontend, API, base de datos, CI/CD y despliegue.
 - 🤖 Integro **IA** en productos reales (visión por computadora, flujos agénticos) y uso IA para programar con **reglas y pruebas**, no a ciegas.
-- 📚 Aprendiendo **Docker, Linux y AWS**.
+- 📚 En **constante aprendizaje**: hoy profundizando en **Docker, Linux y AWS**.
 - 🌎 **Open to work**.
 
 ### 🛠️ Stack
@@ -28,17 +28,8 @@
 ### 🤖 Lo que hago con IA
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=700&color=2DD4BF&center=true&vCenter=true&width=620&lines=Agentes+que+programan%2C+revisan+y+se+corrigen;Visi%C3%B3n+por+computadora+en+productos+reales;IA+con+reglas%2C+pruebas+y+seguridad" alt="IA aplicada" />
+  <img src="./assets/terminal-ia.svg" alt="Terminal: orquesto agentes de IA que implementan, revisan y aprenden; visión por computadora que llena y envía reportes; auditorías de seguridad con pruebas; reglas y CI para equipos que programan con IA" width="100%" />
 </p>
-
-| | Qué hago |
-|---|---|
-| 🧠 **Orquestación multi-agente** | Flujos donde un agente implementa y otros revisan en paralelo correctitud y seguridad (Claude + Codex); un "juez" decide si se corrige otra ronda y lo aprendido se guarda como reglas para la siguiente vez. |
-| 👁️ **Visión por computadora** | Apps donde tomas una foto y la IA clasifica el problema y llena el reporte sola, con umbrales de confianza, deshacer y un humano siempre al control. |
-| 🛡️ **Auditorías de seguridad con IA** | Revisiones tipo pentester (OWASP API Top 10, BOLA, escalamiento de privilegios) que terminan en pruebas automáticas de regresión, no solo en un reporte. |
-| ✅ **Calidad del código generado por IA** | Quality gates antes del PR ([code-gate](https://github.com/canulcua123-source/code-gate)): código muerto, textos sin traducir, exports sin uso y básicos de seguridad. |
-| 📏 **Reglas para equipos que programan con IA** | `AGENTS.md`, CI que bloquea malas prácticas en bases de datos, ramas protegidas y revisión obligatoria: la IA acelera, las reglas evitan desastres. |
-| 🔌 **IA conectada a herramientas (MCP)** | Agentes que consultan bases de datos, generan documentos y reportes, y automatizan tareas repetitivas con skills propias de Claude Code. |
 
 ### 📊 Estadísticas
 
@@ -51,16 +42,6 @@
   <img src="https://streak-stats.demolab.com?user=canulcua123-source&theme=tokyonight&hide_border=true&locale=es" alt="Racha de contribuciones" />
 </p>
 
-### 🐍 Mis contribuciones
-
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/canulcua123-source/canulcua123-source/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/canulcua123-source/canulcua123-source/output/github-snake.svg" />
-    <img alt="La serpiente se come mis contribuciones" src="https://raw.githubusercontent.com/canulcua123-source/canulcua123-source/output/github-snake.svg" />
-  </picture>
+  <img src="./assets/terminal-contacto.svg" alt="¿Tienes un proyecto? Hablemos: mi-portafolio-2026-three.vercel.app" width="70%" />
 </p>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=94A3B8&center=true&vCenter=true&width=500&lines=Gracias+por+visitar+mi+perfil+%E2%9C%A8;%C2%BFTienes+un+proyecto%3F+Hablemos" alt="Gracias por visitar" />
-</div>
