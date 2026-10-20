@@ -25,21 +25,20 @@
   <img src="https://skillicons.dev/icons?i=react,ts,js,vite,tailwind,nodejs,python,fastapi,mongodb,redis,supabase,docker,linux,aws,git,github,githubactions,vercel&perline=9" alt="Stack" />
 </p>
 
-### 🚀 Proyectos destacados
+### 🤖 Lo que hago con IA
 
 <p align="center">
-  <a href="https://github.com/canulcua123-source/campus-fix"><img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=canulcua123-source&repo=campus-fix&theme=tokyonight&hide_border=true" alt="campus-fix" /></a>
-  <a href="https://github.com/canulcua123-source/code-gate"><img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=canulcua123-source&repo=code-gate&theme=tokyonight&hide_border=true" alt="code-gate" /></a>
-  <a href="https://github.com/canulcua123-source/restaurant"><img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=canulcua123-source&repo=restaurant&theme=tokyonight&hide_border=true" alt="Mesa Feliz" /></a>
-  <a href="https://github.com/canulcua123-source/Gold_Blade"><img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=canulcua123-source&repo=Gold_Blade&theme=tokyonight&hide_border=true" alt="BarberPro" /></a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=700&color=2DD4BF&center=true&vCenter=true&width=620&lines=Agentes+que+programan%2C+revisan+y+se+corrigen;Visi%C3%B3n+por+computadora+en+productos+reales;IA+con+reglas%2C+pruebas+y+seguridad" alt="IA aplicada" />
 </p>
 
-| Proyecto | Qué es | Stack |
-|---|---|---|
-| **[Campus Fix](https://github.com/canulcua123-source/campus-fix)** | PWA para reportar incidencias del campus con foto: la IA llena el reporte; roles, permisos por alcance, analítica y CI/CD | React · FastAPI · MongoDB Atlas · Redis · B2 |
-| **[code-gate](https://github.com/canulcua123-source/code-gate)** | Revisión de calidad antes del PR para código generado con IA | Claude Code · Codex · Gemini CLI |
-| **[Mesa Feliz](https://github.com/canulcua123-source/restaurant)** | Reservaciones de restaurantes en Mérida con mapa de mesas y sugerencias con IA | React · TypeScript · Tailwind · shadcn/ui |
-| **[BarberPro](https://github.com/canulcua123-source/Gold_Blade)** | Administración de barbería con reservas y pagos en línea | TypeScript |
+| | Qué hago |
+|---|---|
+| 🧠 **Orquestación multi-agente** | Flujos donde un agente implementa y otros revisan en paralelo correctitud y seguridad (Claude + Codex); un "juez" decide si se corrige otra ronda y lo aprendido se guarda como reglas para la siguiente vez. |
+| 👁️ **Visión por computadora** | Apps donde tomas una foto y la IA clasifica el problema y llena el reporte sola, con umbrales de confianza, deshacer y un humano siempre al control. |
+| 🛡️ **Auditorías de seguridad con IA** | Revisiones tipo pentester (OWASP API Top 10, BOLA, escalamiento de privilegios) que terminan en pruebas automáticas de regresión, no solo en un reporte. |
+| ✅ **Calidad del código generado por IA** | Quality gates antes del PR ([code-gate](https://github.com/canulcua123-source/code-gate)): código muerto, textos sin traducir, exports sin uso y básicos de seguridad. |
+| 📏 **Reglas para equipos que programan con IA** | `AGENTS.md`, CI que bloquea malas prácticas en bases de datos, ramas protegidas y revisión obligatoria: la IA acelera, las reglas evitan desastres. |
+| 🔌 **IA conectada a herramientas (MCP)** | Agentes que consultan bases de datos, generan documentos y reportes, y automatizan tareas repetitivas con skills propias de Claude Code. |
 
 ### 📊 Estadísticas
 
@@ -50,10 +49,6 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=canulcua123-source&theme=tokyonight&hide_border=true&locale=es" alt="Racha de contribuciones" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=canulcua123-source&theme=tokyo-night&hide_border=true&area=true" alt="Gráfica de actividad" />
 </p>
 
 ### 🐍 Mis contribuciones
